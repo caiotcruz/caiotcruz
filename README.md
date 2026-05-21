@@ -38,6 +38,8 @@ Além de codar, sou entusiasta de design de jogos e gestão de comunidades, semp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
+---
+
 ## 🚀 Projetos em Destaque
 
 *   **[MyGameList](https://github.com/caiotcruz/MyGameList-Fullstack)** - *Em desenvolvimento*: Uma rede social voltada para colecionadores de jogos, desenvolvida com Angular e focada em gestão de bibliotecas pessoais.
