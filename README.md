@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Caio! 👋</h1>
+<h1 align="center">Olá, eu sou o Caio!</h1>
 
-<h3 align="center">Estudante de Ciência da Computação na UERJ | Fullstack Developer</h3>
+<h3 align="center">Desenvolvedor Backend Java | Aplicações Web | Spring Boot | APIs REST | SQL | Angular</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudante-blue?style=flat-square" alt="Status">
