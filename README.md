@@ -3,7 +3,6 @@
 <h3 align="center">Desenvolvedor Backend Java | Aplicações Web | Spring Boot | APIs REST | SQL | Angular</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Estudante-blue?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Localização-Rio%20de%20Janeiro-red?style=flat-square" alt="Location">
   <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
