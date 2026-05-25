@@ -48,6 +48,8 @@ Além de codar, sou entusiasta de design de jogos e gestão de comunidades, semp
 
 *   **[LifeQuest](https://github.com/caiotcruz/LifeQuest)** - *Em desenvolvimento*: Aplicativo mobile gamificado de produtividade ("RPG da vida real"). Transforma metas em sistemas de progressão (XP, Níveis, Streaks). Backend robusto em Java/Spring Boot com foco em alta captura de dados comportamentais e Analytics, utilizando Ionic/Angular para uma experiência mobile fluida.
 
+*   **[Motor de Renderização Voxel 3D com Geração Procedura](https://github.com/caiotcruz/minecraft-like)**: - *Em desenvolvimento*: Motor de Renderização Voxel 3D com Geração Procedural - Em desenvolvimento: Um motor gráfico 3D desenvolvido do zero utilizando Java e OpenGL (LWJGL). Foca na implementação de algoritmos de geração procedural de terrenos infinitos (Fractal Brownian Motion), gerenciamento dinâmico de memória via segmentação em chunks e otimização de renderização em tempo real. O projeto demonstra domínio em geometria computacional, matemática aplicada e arquitetura de sistemas de alta performance (Basicamente um minecraft-like).
+
 ---
 
 ## 📊 Minhas Estatísticas GitHub
