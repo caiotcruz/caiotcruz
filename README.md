@@ -1,5 +1,3 @@
-<h1 align="center">Olá, eu sou o Caio!</h1>
-
 <h3 align="center">Desenvolvedor Backend Java | Aplicações Web | Spring Boot | APIs REST | SQL | Angular</h3>
 
 <p align="center">
