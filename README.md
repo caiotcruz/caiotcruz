@@ -61,8 +61,10 @@ Além de codar, sou entusiasta de design de jogos e gestão de comunidades, semp
 ## 📊 Minhas Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiotcruz&theme=radical"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiotcruz]&theme=radical"/>
 </div>
+
 
 ---
 
