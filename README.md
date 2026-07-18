@@ -7,14 +7,14 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 Desenvolvedor Fullstack apaixonado por criar soluções web eficientes e escaláveis. Atualmente, foco meu desenvolvimento em **Java** no backend, com experiência em **Node.js**. No frontend, trabalho com **Angular** e **React**. 
 
 Além de codar, sou entusiasta de design de jogos e gestão de comunidades, sempre buscando otimizar a experiência do usuário, seja em aplicações web ou servidores de jogos.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Backend & Arquitetura
 <p>
@@ -46,7 +46,7 @@ Além de codar, sou entusiasta de design de jogos e gestão de comunidades, semp
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 *   **[MyGameList](https://github.com/caiotcruz/MyGameList-Fullstack)** - *Em desenvolvimento*: Uma rede social voltada para colecionadores de jogos, desenvolvida com Angular e focada em gestão de bibliotecas pessoais.
 
@@ -58,7 +58,7 @@ Além de codar, sou entusiasta de design de jogos e gestão de comunidades, semp
 
 ---
 
-## 📊 Minhas Estatísticas GitHub
+##  Minhas Estatísticas GitHub
 
 <div align="center">
 
@@ -68,19 +68,11 @@ Além de codar, sou entusiasta de design de jogos e gestão de comunidades, semp
 
 ---
 
-## 🌿 Fora do Código
-Gosto de manter um equilíbrio entre o mundo digital e a vida offline para recarregar as energias:
-*   **Atividades Físicas:** Valorizo o exercício diário como forma de manter a mente clara e focada.
-*   **Momentos de Desconexão:** Aprecio bons momentos de pausa, seja com música, café ou tempo de qualidade com amigos e família.
-*   **Crescimento Pessoal:** Sempre em busca de novos hobbies que estimulem a criatividade além do ambiente de desenvolvimento.
-
----
-
-## 📬 Contato
+##  Contato
 Fique à vontade para entrar em contato comigo:
 
-*   💼 **LinkedIn:** [caio-teixeira-da-cruz](https://www.linkedin.com/in/caio-teixeira-da-cruz/)
-*   📧 **E-mail:** caiotcruz@gmail.com
+*   **LinkedIn:** [caio-teixeira-da-cruz](https://www.linkedin.com/in/caio-teixeira-da-cruz/)
+*    **E-mail:** caiotcruz@gmail.com
 
 ---
 
