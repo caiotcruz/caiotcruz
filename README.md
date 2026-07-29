@@ -10,7 +10,7 @@
 ##  Sobre Mim
 Desenvolvedor Fullstack apaixonado por criar soluções web eficientes e escaláveis. Atualmente, foco meu desenvolvimento em **Java** no backend, com experiência em **Node.js**. No frontend, trabalho com **Angular** e **React**. 
 
-Além de codar, sou entusiasta de design de jogos e gestão de comunidades, sempre buscando otimizar a experiência do usuário, seja em aplicações web ou servidores de jogos.
+Além de codar, sou entusiasta de design de jogos, sempre buscando otimizar a experiência do usuário, seja em aplicações web ou servidores de jogos.
 
 ---
 
